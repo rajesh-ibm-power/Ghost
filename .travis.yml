@@ -20,7 +20,6 @@ addons:
         key_url: 'https://dl.yarnpkg.com/debian/pubkey.gpg'
     packages:
       - yarn
-      - yarn test
 
 services:
   - mysql
