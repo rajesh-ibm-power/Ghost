@@ -5,8 +5,7 @@ arch:
   - amd64
   - ppc64le
 node_js:
-  - "10"
-  - "8"
+  - 14.15.0
 
 sudo: false
 
